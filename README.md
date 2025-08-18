@@ -1,6 +1,38 @@
-# 😍💞💘 𝓟𝓢𝓒𝓟 (เฉลย) 💔💏💖
-รวมคำตอบ PSCP Problems บน <<i>i>judge มากกว่า 100 ข้อ
-## ใช้เพื่อการความเข้าใจเท่านั้น (ห้ามลอก)
+# PSCP Study Reference
+
+This repository contains solutions for **PSCP Problems**, **Mock Exams**, and other related exercises.  
+It is designed as a study resource and quick reference guide.
+
+---
+
+## 📚 Contents
+
+1. **Problems**
+   - Original problem statements (TH)
+   - Python solutions
+   - Sample Testcases
+
+2. **Mock Exams**
+   - Full exam-style problems
+   - Python solutions
+   - Sample Testcases
+
+3. **Other Exercises**
+   - Soon <3
+
+---
+
+## 🛠️ How to Use
+
+- Each folder contains:
+  - `problem-name.md` → Problem Statement input/output Specification
+  - `solution.py` → Python implementation
+  - `sample-testcases.md` → Sample testcases for testing (Not nescessary mean your code is right)
+
+- **Try your code first** before using the solution.
+- **FOR REFERENCE ONLY**
+
+---
 ```I Love Cats :3
 """We Love Cats"""
 
