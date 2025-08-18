@@ -33,12 +33,4 @@ It is designed as a study resource and quick reference guide.
 - **FOR REFERENCE ONLY**
 
 ---
-```I Love Cats :3
-"""We Love Cats"""
-
-if youlovecats is True :
-  print("Hello Cats Lovers :D")
-else :
-  print("Cats Will Come To Take You :3")
-  
-```
+### Good Luck :D by CatLover
