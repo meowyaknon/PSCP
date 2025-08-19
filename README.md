@@ -1,6 +1,6 @@
 # PSCP Study Reference
 
-This repository contains solutions for **PSCP Problems**, **Mock Exams**, and other related exercises.  
+This repository contains solutions for **PSCP Mock Exams**.  
 It is designed as a study resource and quick reference guide.
 
 ---
