@@ -1,7 +1,8 @@
 # Sample Testcases [1]
 
-### Input:
 
+### Input:
+```
 1
 2
 3
@@ -10,15 +11,16 @@
 6
 7
 8
-
+```
 ### Output:
-
+```
 1 2 3
-
+```
 # Sample Testcases [2]
 
-### Input:
 
+### Input:
+```
 19
 12
 26
@@ -27,7 +29,8 @@
 11
 9
 20 
-
+```
 ### Output:
-
+```
 7 6 2
+```
