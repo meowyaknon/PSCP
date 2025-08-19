@@ -1,23 +1,18 @@
 # PSCP Study Reference
 
-This repository contains solutions for **PSCP Problems**, **Mock Exams**, and other related exercises.  
+This repository contains solutions for **PSCP Mock Exams** KMITL IT23.  
 It is designed as a study resource and quick reference guide.
 
 ---
 
 ## 📚 Contents
 
-1. **Problems**
-   - Original problem statements (TH)
-   - Python solutions
-   - Sample Testcases
-
-2. **Mock Exams**
+1. **Mock Exams**
    - Full exam-style problems
    - Python solutions
    - Sample Testcases
 
-3. **Other Exercises**
+2. **Other Exercises**
    - Soon <3
 
 ---
