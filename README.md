@@ -1,11 +1,11 @@
-# PSCP Study Reference (˶˃⤙˂˶)
+# PSCP Study Reference ✩°｡🧸𓏲⋆.🧺𖦹 ₊˚
 
 This repository contains solutions for **PSCP Mock Exams** KMITL IT23.  
 It is designed as a study resource and quick reference guide.
 
 ---
 
-## 📚 Contents
+## 📚 Contents (,,>﹏<,,)
 
 1. **Mock Exams**
    - Full exam-style problems
@@ -17,7 +17,7 @@ It is designed as a study resource and quick reference guide.
 
 ---
 
-## 🛠️ How to Use
+## 🛠️ How to Use ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
 - Each folder contains:
   - `problem-name.md` → Problem Statement input/output Specification
