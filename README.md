@@ -28,4 +28,4 @@ It is designed as a study resource and quick reference guide.
 - **FOR REFERENCE ONLY**
 
 ---
-### Good Luck :D by CatLover
+### Good LUCK /ᐠ˵- ⩊ -˵マ
